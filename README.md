@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-amaann&label=Profile%20views&color=0e75b6&style=flat" alt="m-amaann" /> </p>
 
-- 🔭 I’m currently working on **Todo React Native Application**
+- 🔭 I’m currently working on **LMS React Native Mobile App**
 
 - 🌱 I’m currently learning **Flutter, AWS CLF-C02, Spring boot**
 
