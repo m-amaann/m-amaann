@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **LMS React Native Mobile App**
 
-- 🌱 I’m currently learning **Flutter, AWS CLF-C02, Spring boot**
+- 🌱 I’m currently learning **Nestjs, AWS CLF-C02, Spring boot**
 
 - 👯 I’m looking to collaborate on **projects with different & various technologies**
 
 - 🤝 I’m looking for help with **full-stack development**
 
-- 💬 Ask me about **React, Next.js, Java, React Native, Spring Boot.**
+- 💬 Ask me about **React, Next.js, Angular, Java, React Native, C#, .Net Core, ASP.Net, Microservices, Javascript, Typscript**
 
-- 📫 How to reach me **amaan.rcm@gmail.com | +94 771668444**
+- 📫 How to reach me **amaan.rcm@gmail.com | +94 77-166-8444**
 
 - ⚡ Fun fact **Call me as Amaan**
 
