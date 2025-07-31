@@ -71,7 +71,8 @@
 
 ---
 
-### 📈 GitHub Stats
+### 💻 Workspace 
+<img height="30" src="https://img.shields.io/badge/Macbook-Air_M2-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> 
 
 <table align="center">
   <tr>
@@ -86,3 +87,9 @@
     </td>
   </tr>
 </table>
+
+[![Amaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m-amaann&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/m-amaann)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/amaan26?ext=contest&theme=dark)](https://leetcode.com/amaan26)
+
+
