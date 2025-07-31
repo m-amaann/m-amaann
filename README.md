@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mohamed Amaan</h1>
-<h3 align="center">Self-Motivated As a Software Engineer from SriLanka</h3>
+<h1 align="center">Hi 👋, I'm Amaan</h1>
+<h3 align="center">QA Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-amaann&label=Profile%20views&color=0e75b6&style=flat" alt="m-amaann" /> </p>
 
-- 🔭 I’m currently working on **LMS React Native Mobile App**
+- 🔭 I’m currently working on **Automation Test Framework**
 
-- 🌱 I’m currently learning **Nestjs, AWS CLF-C02, Spring boot**
+- 🌱 I’m currently learning *Burp Suite, Performance testing, Appium**
 
 - 👯 I’m looking to collaborate on **projects with different & various technologies**
 
 - 🤝 I’m looking for help with **full-stack development**
 
-- 💬 Ask me about **React, Next.js, Angular, Java, React Native, C#, .Net Core, ASP.Net, Microservices, Javascript, Typscript**
+- 💬 Ask me about **Java, C#, Typscript, Jenkins, JMeter, Grafana K6, Appium, Playwirght, Cypress, Selenium, TestNG, Kubernetes, MCP, Microservices, AWS Services**
 
-- 📫 How to reach me **amaan.rcm@gmail.com | +94 77-166-8444**
+- 📫 How to reach me **amaan26.rc@gmail.com | +94 77-166-8444**
 
-- ⚡ Fun fact **Call me as Amaan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
