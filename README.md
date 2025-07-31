@@ -1,58 +1,82 @@
 <h1 align="center">Hi 👋, I'm Amaan</h1>
-<h3 align="center">Software QA Engineer from Sri Lanka</h3>
+<h3 align="center">Software QA Engineer | Automation Enthusiast | Performance Tester</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-amaann&label=Profile%20views&color=0e75b6&style=flat" alt="m-amaann" /> </p>
-
-- 🔭 I’m currently working on: **Completed Test Automation Framework**
-
-- ✨ Learning: **Burp Suite, Appium**
-
-- 👥 Looking to collaborate on: **QA & Full-Stack Projects**
-
-- 🤝 Open to: Mentorship, Learning, Team Contributions
-
-- 💬 Ask me about: **Java, C#, Typscript, NodeJS, JMeter, Grafana K6, Appium, Playwirght, Cypress, Selenium, TestNG, Kubernetes, CI/CD, MCP, Microservices, AWS Services**
-
-- 📫 How to reach me: **amaan26.rc@gmail.com | +94 77-166-8444**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/mohamed-amaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mohamed-amaan" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/amaanrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amaanrr" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_.amaann_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.amaann_/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=QA+Engineer+from+Sri+Lanka;Automation+%7C+Manual+%7C+Performance+Testing;Selenium+%7C+Cypress+%7C+Appium+%7C+k6+%7C+Postman;Always+learning+%7C+Always+building" alt="Typing SVG" />
 </p>
 
-### 🧰 Testing Tools
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m-amaann&label=Profile%20views&color=0e75b6&style=flat" alt="m-amaann" />
+</p>
 
-#### 🧪 Automation Testing  
+---
+
+### 🔍 About Me
+
+- 🔭 **Current Project:** Building a Test Automation Framework  
+- 🌱 **Currently Learning:** Appium & Burp Suite  
+- 🤝 **Collaboration Goals:** Full-stack + QA cross-functional projects  
+- 💬 **Ask me about:**  
+  `Java`, `C#`, `TypeScript`, `NodeJS`, `Selenium`, `Playwright`, `Cypress`, `Appium`, `Postman`, `JMeter`, `k6`, `TestNG`, `CI/CD`, `Microservices`, `Kubernetes`, `AWS`  
+- 📫 **Reach Me At:** amaan26.rc@gmail.com | +94 77-166-8444
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohamed-amaan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://facebook.com/amaanrr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_.amaann_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧰 My Testing Toolkit
+
+#### 🧪 Automation
 `Java` • `JavaScript` • `TypeScript` • `C#`  
 `Selenium` • `Playwright` • `Cypress` • `TestNG` • `AccelQ` • `SpecFlow` • `Mocha`
 
-#### 📱 Mobile Testing  
+#### 📱 Mobile
 `Appium`
 
-#### 🌐 API Testing  
+#### 🌐 API
 `Postman` • `Rest-Assured`
 
-#### 🌍 Cross-Browser Testing  
-`BrowserStack`
+#### 🌍 Cross-Browser
+`BrowserStack` • `LambdaTest`
 
-#### 🚀 Performance Testing  
+#### 🚀 Performance
 `JMeter` • `k6`
 
-#### 🛡️ Security Testing  
+#### 🛡️ Security
 `Burp Suite`
 
-#### 🧮 Database Testing  
+#### 🧮 Database
 `PostgreSQL` • `MySQL` • `SQL Server`
 
-#### 🛠️ Build & Framework Tools  
+#### 🛠 Build & Framework
 `Maven` • `Mocha` • `SpecFlow`
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-amaann&show_icons=true&locale=en&layout=compact" alt="m-amaann" /></p>
+### 📈 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-amaann&show_icons=true&locale=en" alt="m-amaann" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-amaann&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-amaann&" alt="m-amaann" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-amaann&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-amaann&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
