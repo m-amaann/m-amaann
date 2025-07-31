@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/main/common/src/web/images/logos/selenium-logo.svg" width="40" alt="Selenium"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" width="40" alt="Playwright"/>
   <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo.png" width="40" alt="Cypress"/>
-  <img src="https://testng.org/doc/images/testng-logo.png" width="40" alt="TestNG"/>
+  <img src="[https://testng.org/doc/images/testng-logo.png](https://images.app.goo.gl/s2675faKmRsxqsR17)" width="40" alt="TestNG"/>
 </p>
 
 #### 📱 Mobile Testing
