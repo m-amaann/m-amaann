@@ -23,21 +23,56 @@
 <a href="https://instagram.com/https://www.instagram.com/_.amaann_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.amaann_/" height="30" width="40" /></a>
 </p>
 
-💻 Testing Tools
-🧪 Automation Testing
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/> <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="cypress" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/17407429?s=200&v=4" alt="testng" width="40" height="40"/> </p>
-📱 Mobile Testing
-<p> <img src="https://appium.io/img/appium-logo.svg" alt="appium" width="40" height="40"/> </p>
-🌐 API Testing
-<p> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <img src="https://raw.githubusercontent.com/stoplightio/spectral/main/website/static/img/logo.svg" alt="rest-assured" width="40" height="40"/> </p>
-🌍 Cross-Browser Testing
-<p> <img src="https://www.lambdatest.com/resources/images/logos/logo.svg" alt="lambdatest" width="40" height="40"/> <img src="https://www.browserstack.com/images/mail/browserstack-logo-footer.svg" alt="browserstack" width="40" height="40"/> </p>
-🚀 Performance Testing
-<p> <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="40" height="40"/> <img src="https://raw.githubusercontent.com/grafana/k6/main/docs/static/img/k6-logo.svg" alt="k6" width="40" height="40"/> </p>
-🛡️ Security Testing
-<p> <img src="https://portswigger.net/cms/images/01/6d/f6e3-article-burp-suite-logo-1.webp" alt="burp suite" width="40" height="40"/> </p>
-🧮 Database Testing
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </p>
+### 🧰 Testing Tools
+
+#### 🧪 Automation Testing
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/main/common/src/web/images/logos/selenium-logo.svg" width="40" alt="Selenium"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="40" alt="Playwright"/>
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo.png" width="40" alt="Cypress"/>
+  <img src="https://testng.org/doc/images/testng-logo.png" width="40" alt="TestNG"/>
+</p>
+
+#### 📱 Mobile Testing
+<p>
+  <img src="https://appium.io/img/appium-logo.svg" width="40" alt="Appium"/>
+</p>
+
+#### 🌐 API Testing
+<p>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/>
+  <img src="https://avatars.githubusercontent.com/u/1011757?s=200&v=4" width="40" alt="Rest Assured"/>
+</p>
+
+#### 🌍 Cross-Browser Testing
+<p>
+  <img src="https://www.browserstack.com/images/mail/browserstack-logo-footer.svg" width="100" alt="BrowserStack"/>
+  <img src="https://www.lambdatest.com/resources/images/logos/logo.svg" width="100" alt="LambdaTest"/>
+</p>
+
+#### 🚀 Performance Testing
+<p>
+  <img src="https://jmeter.apache.org/images/jmeter.svg" width="40" alt="JMeter"/>
+  <img src="https://raw.githubusercontent.com/grafana/k6/main/docs/static/img/k6-logo.svg" width="40" alt="k6"/>
+</p>
+
+#### 🛡️ Security Testing
+<p>
+  <img src="https://portswigger.net/cms/images/01/6d/f6e3-article-burp-suite-logo-1.webp" width="100" alt="Burp Suite"/>
+</p>
+
+#### 🧮 Database Testing
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server"/>
+</p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-amaann&show_icons=true&locale=en&layout=compact" alt="m-amaann" /></p>
 
