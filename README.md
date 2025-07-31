@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Barlow&size=18+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=QA+Engineer+from+Sri+Lanka;Automation+%7C+Manual+%7C+Performance+Testing;Selenium+%7C+Cypress+%7C+Appium+%7C+k6+%7C+Postman;Always+learning+%7C+Always+building" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=m-amaann&label=Profile%20views&color=0e75b6&style=flat" alt="m-amaann" />
 </p>
 
@@ -24,7 +24,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/mohamed-amaan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
