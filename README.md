@@ -28,9 +28,6 @@
   <a href="https://linkedin.com/in/mohamed-amaan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://facebook.com/amaanrr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" />
-  </a>
   <a href="https://instagram.com/_.amaann_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
   </a>
