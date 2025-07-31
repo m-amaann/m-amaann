@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-amaann&label=Profile%20views&color=0e75b6&style=flat" alt="m-amaann" /> </p>
 
-- 🔭 I’m currently working on **Completed Test Automation Framework**
+- 🔭 I’m currently working on: **Completed Test Automation Framework**
 
-- 🌱 I’m currently learning **Burp Suite, Appium**
+- ✨ Learning: **Burp Suite, Appium**
 
-- 👯 I’m looking to collaborate on **projects with different & various technologies**
+- 👥 Looking to collaborate on: **QA & Full-Stack Projects**
 
-- 🤝 I’m looking for help with **full-stack development**
+- 🤝 Open to: Mentorship, Learning, Team Contributions
 
-- 💬 Ask me about **Java, C#, Typscript, NodeJS, JMeter, Grafana K6, Appium, Playwirght, Cypress, Selenium, TestNG, Kubernetes, CI/CD, MCP, Microservices, AWS Services**
+- 💬 Ask me about: **Java, C#, Typscript, NodeJS, JMeter, Grafana K6, Appium, Playwirght, Cypress, Selenium, TestNG, Kubernetes, CI/CD, MCP, Microservices, AWS Services**
 
-- 📫 How to reach me **amaan26.rc@gmail.com | +94 77-166-8444**
+- 📫 How to reach me: **amaan26.rc@gmail.com | +94 77-166-8444**
 
 
 <h3 align="left">Connect with me:</h3>
