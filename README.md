@@ -25,53 +25,30 @@
 
 ### 🧰 Testing Tools
 
-#### 🧪 Automation Testing
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
-  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/main/common/src/web/images/logos/selenium-logo.svg" width="40" alt="Selenium"/>
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="40" alt="Playwright"/>
-  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo.png" width="40" alt="Cypress"/>
-  <img src="https://images.app.goo.gl/s2675faKmRsxqsR17" width="40" alt="TestNG"/>
-</p>
+#### 🧪 Automation Testing  
+`Java` • `JavaScript` • `TypeScript` • `C#`  
+`Selenium` • `Playwright` • `Cypress` • `TestNG` • `AccelQ` • `SpecFlow` • `Mocha`
 
-#### 📱 Mobile Testing
-<p>
-  <img src="https://appium.io/img/appium-logo.svg" width="40" alt="Appium"/>
-</p>
+#### 📱 Mobile Testing  
+`Appium`
 
-#### 🌐 API Testing
-<p>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/>
-  <img src="https://avatars.githubusercontent.com/u/1011757?s=200&v=4" width="40" alt="Rest Assured"/>
-</p>
+#### 🌐 API Testing  
+`Postman` • `Rest-Assured`
 
-#### 🌍 Cross-Browser Testing
-<p>
-  <img src="https://www.browserstack.com/images/mail/browserstack-logo-footer.svg" width="100" alt="BrowserStack"/>
-  <img src="https://www.lambdatest.com/resources/images/logos/logo.svg" width="100" alt="LambdaTest"/>
-</p>
+#### 🌍 Cross-Browser Testing  
+`BrowserStack`
 
-#### 🚀 Performance Testing
-<p>
-  <img src="https://jmeter.apache.org/images/jmeter.svg" width="40" alt="JMeter"/>
-  <img src="https://raw.githubusercontent.com/grafana/k6/main/docs/static/img/k6-logo.svg" width="40" alt="k6"/>
-</p>
+#### 🚀 Performance Testing  
+`JMeter` • `k6`
 
-#### 🛡️ Security Testing
-<p>
-  <img src="https://portswigger.net/cms/images/01/6d/f6e3-article-burp-suite-logo-1.webp" width="100" alt="Burp Suite"/>
-</p>
+#### 🛡️ Security Testing  
+`Burp Suite`
 
-#### 🧮 Database Testing
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server"/>
-</p>
+#### 🧮 Database Testing  
+`PostgreSQL` • `MySQL` • `SQL Server`
 
+#### 🛠️ Build & Framework Tools  
+`Maven` • `Mocha` • `SpecFlow`
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-amaann&show_icons=true&locale=en&layout=compact" alt="m-amaann" /></p>
