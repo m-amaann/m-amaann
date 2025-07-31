@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **full-stack development**
 
-- 💬 Ask me about **Java, C#, Typscript, Jenkins, JMeter, Grafana K6, Appium, Playwirght, Cypress, Selenium, TestNG, Kubernetes, MCP, Microservices, AWS Services**
+- 💬 Ask me about **Java, C#, Typscript, NodeJS, JMeter, Grafana K6, Appium, Playwirght, Cypress, Selenium, TestNG, Kubernetes, CI/CD, MCP, Microservices, AWS Services**
 
 - 📫 How to reach me **amaan26.rc@gmail.com | +94 77-166-8444**
 
