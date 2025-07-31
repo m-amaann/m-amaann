@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-amaann&label=Profile%20views&color=0e75b6&style=flat" alt="m-amaann" /> </p>
 
-- 🔭 I’m currently working on **Automation Test Framework**
+- 🔭 I’m currently working on **Completed Test Automation Framework**
 
-- 🌱 I’m currently learning *Burp Suite, Performance testing, Appium**
+- 🌱 I’m currently learning **Burp Suite, Appium**
 
 - 👯 I’m looking to collaborate on **projects with different & various technologies**
 
