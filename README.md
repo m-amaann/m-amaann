@@ -77,13 +77,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=m-amaann&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="320"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=m-amaann&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-amaann&theme=tokyonight" alt="GitHub Streak" width="320"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-amaann&theme=tokyonight" alt="GitHub Streak" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-amaann&layout=compact&theme=tokyonight&hide=html,css,shell,scss" alt="Top Languages" width="500" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-amaann&layout=compact&theme=tokyonight&hide=html,css,shell,scss" alt="Top Languages" width="400" />
     </td>
   </tr>
 </table>
