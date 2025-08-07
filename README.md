@@ -13,7 +13,7 @@
 - 🌱 **Currently Learning:** Appium & Burp Suite  
 - 🤝 **Collaboration Goals:** QA Professional  
 - 💬 **Ask me about:**  
-  `Java`, `C#`, `TypeScript`, `NodeJS`, `Selenium`, `Playwright`, `Cypress`, `Appium`, `Postman`, `JMeter`, `k6`, `TestNG`, `CI/CD`, `Microservices`, `Kubernetes`, `AWS`  
+  `Java`, `C#`, `TypeScript`, `Selenium`, `Playwright`, `Appium`, `Postman`, `JMeter`, `TestNG`, `CI/CD`, `Microservices`, `Kubernetes`, `AWS`  
 - 📫 **Reach Me At:** amaan26.rc@gmail.com | +94 77-166-8444
 
 ---
