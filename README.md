@@ -2,7 +2,7 @@
 <h3 align="center">Software QA Engineer | Automation | Performance Tester</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Barlow&size=18+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=QA+Engineer+from+Sri+Lanka;Automation+%7C+Manual+%7C+Performance+Testing;Selenium+%7C+Cypress+%7C+Appium+%7C+k6+%7C+Postman;Always+learning+%7C+Always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Barlow&size=18+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=QA+Engineer+from+Sri+Lanka;Automation+%7C+Manual+%7C+Performance+Testing;Selenium+%7C+Appium+%7C+k6+%7C+Postman;Always+learning+%7C+Always+building" alt="Typing SVG" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 
 #### 🧪 Automation
 `Java` • `JavaScript` • `TypeScript` • `C#`  
-`Selenium` • `Playwright` • `Cypress` • `TestNG` • `AccelQ` • `SpecFlow` • `Mocha`
+`Selenium` • `Playwright` • `TestNG` • `AccelQ` • `SpecFlow` • `Mocha`
 
 #### 📱 Mobile
 `Appium`
