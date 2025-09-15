@@ -9,7 +9,7 @@
 
 ### 🔍 About Me
 
-- 🔭 **Current Project:** Building a Test Automation Framework  
+- 🔭 **Current Project:** Build a MCP Test Agent
 - 🌱 **Currently Learning:** Appium & Burp Suite  
 - 🤝 **Collaboration Goals:** QA Professional  
 - 💬 **Ask me about:**  
