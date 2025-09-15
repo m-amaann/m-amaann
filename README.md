@@ -39,7 +39,7 @@
 
 #### 🧪 Automation
 `Java` • `JavaScript` • `TypeScript` • `C#`  
-`Selenium` • `Playwright` • `TestNG` • `AccelQ` • `SpecFlow` • `Mocha`
+`Selenium` • `Playwright` • `TestNG` • `SpecFlow` • `Mocha`
 
 #### 📱 Mobile
 `Appium`
@@ -48,16 +48,16 @@
 `Postman` • `Rest-Assured`
 
 #### 🌍 Cross-Browser
-`BrowserStack` • `LambdaTest`
+`BrowserStack` • `Tosca`
 
 #### 🚀 Performance
-`JMeter` • `k6`
+`JMeter`
 
 #### 🛡️ Security
 `Burp Suite`
 
 #### 🧮 Database
-`PostgreSQL` • `MySQL` • `SQL Server`
+`PostgreSQL` • `Mongo DB` • `SQL Server`
 
 #### 🛠 Build & Framework
 `Maven` • `Mocha` • `SpecFlow`
